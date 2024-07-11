@@ -22,7 +22,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Para começar a usar o WikiFood, siga os passos abaixo para configurar o ambiente de desenvolvimento em sua máquina local.
 
->  [!WARNING]
+>  [!IMPORTANT]
 > Antes de instalar o projeto, certifique-se de que você tem o Python instalado em sua máquina. Você pode verificar isso executando `python --version` no terminal. Se você não tem o Python instalado, visite [python.org](https://www.python.org/) para instruções de instalação.
 
 ### Passos para Instalação
