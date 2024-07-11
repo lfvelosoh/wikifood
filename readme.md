@@ -31,7 +31,7 @@ Para começar a usar o WikiFood, siga os passos abaixo para configurar o ambient
 
    Primeiro, clone o repositório do WikiFood para sua máquina local usando o seguinte comando no terminal:
     ```
-    git clone https://github.com/seu-usuario/WikiFood.git
+    git clone https://github.com/lfvelosoh/WikiFood.git
     ```
     
 2. **Crie um Ambiente Virtual**
